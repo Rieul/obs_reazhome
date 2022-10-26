@@ -1,0 +1,13 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "NOTES",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "SOURCES",
+  "spellcheck": false,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "legacyEditor": false,
+  "livePreview": true
+}

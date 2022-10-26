@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "22d2fe9719e40640",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1e6467f2a6779f0",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "d1e6467f2a6779f0",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"RESEARCH/Histoire de la futurologie énergétique.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            }
+          ]
+        },
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "RESEARCH/Histoire de la futurologie énergétique.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a32c0855781ae70",
+    "type": "split",
+    "children": [
+      {
+        "id": "98970692d30900b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fb678c7d560c04",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7797d2a30f9e7ded",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cat/société ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304
+  },
+  "right": {
+    "id": "2d05283ffa9d200b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0cf43622775df44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8dcea0ca020e47",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "RESEARCH/Histoire de la futurologie énergétique.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ae0d86703fd1a2d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "RESEARCH/Histoire de la futurologie énergétique.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3146b76460589433",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a094d3ce575266d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "RESEARCH/Histoire de la futurologie énergétique.md"
+              }
+            }
+          },
+          {
+            "id": "993e47005394783a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "40307e33143782ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "active": "d1e6467f2a6779f0",
+  "lastOpenFiles": [
+    "SOURCES/Presentation/Ce que font les milieux à l'énergie - Techno-diversité et cosmotechniques.md",
+    "SOURCES/Articles/@wilkinson_kupers_2014.md",
+    "RESEARCH/Histoire de la futurologie énergétique.md",
+    "SOURCES/Articles/@soubra_pommier_loubet_techer_bocquet_2022.md",
+    "SOURCES/Articles/@soubra_2021.md",
+    "SOURCES/Articles/@ripple_wolf_newsome_banard_moomaw_2020.md",
+    "SOURCES/Articles/@panagia_2019.md",
+    "NOTES/Dispositif.md",
+    "SOURCES/Articles/@marrec_2020.md",
+    "SOURCES/Articles/@lemmens_hui_2017.md"
+  ]
+}

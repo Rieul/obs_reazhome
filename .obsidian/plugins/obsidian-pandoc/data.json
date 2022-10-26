@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "current",
+  "injectThemeCSS": false,
+  "customCSSFile": "/Users/rieult/Desktop/Archizome/.obsidian/plugins/obsidian-pandoc",
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "link",
+  "highDPIDiagrams": true,
+  "pandoc": "/usr/local/bin/pandoc",
+  "pdflatex": null,
+  "outputFolder": "/Users/rieult/Desktop/Archizome/ARCHIVE",
+  "extraArguments": "",
+  "exportFrom": "html"
+}

@@ -1,0 +1,279 @@
+{
+  "main": {
+    "id": "22d2fe9719e40640",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb9d010a074c2327",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1e6467f2a6779f0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "debedddcab2e79b5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOURCES/@2013_ingold_marcheravecdragons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a987e717db31899f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/Culture, nature, environnement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a32c0855781ae70",
+    "type": "split",
+    "children": [
+      {
+        "id": "98970692d30900b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83fb678c7d560c04",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7797d2a30f9e7ded",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#a",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304
+  },
+  "right": {
+    "id": "2d05283ffa9d200b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0cf43622775df44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf8dcea0ca020e47",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NOTES/Culture, nature, environnement.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9ae0d86703fd1a2d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NOTES/Culture, nature, environnement.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3146b76460589433",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a094d3ce575266d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NOTES/Culture, nature, environnement.md"
+              }
+            }
+          },
+          {
+            "id": "993e47005394783a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "40307e33143782ed",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 353.5
+  },
+  "active": "cf8dcea0ca020e47",
+  "lastOpenFiles": [
+    "SOURCES/@2013_ingold_marcheravecdragons.md",
+    "NOTES/Culture, nature, environnement.md",
+    "NOTES/Cycle de l'accélération.md",
+    "NOTES/Accélération et Changement social.md",
+    "NOTES/Accélération et Communication.md",
+    "NOTES/Théorie de l'accélération sociale.md",
+    "NOTES/Accélération sociale.md",
+    "SOURCES/People/Tim Ingold.md",
+    "SOURCES/@1991_gergen_saturatedselfdilemmasidentitycontemporarylife.md",
+    "MATERIALS/Templates/people_template.md"
+  ]
+}

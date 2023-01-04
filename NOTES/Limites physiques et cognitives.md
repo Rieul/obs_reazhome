@@ -20,4 +20,4 @@ Selon [Hartmut Rosa](https://fr.wikipedia.org/wiki/Hartmut_Rosa)], ces limites s
 
 ---
 > links : [[Théorie de l'accélération sociale]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

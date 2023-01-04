@@ -19,7 +19,7 @@ Ce document accompagne l'apprentissage du processus d'écriture par la méthodol
 ## [[Atelier d'écriture]] 
 
 ## *Le génie de Yolanda* 
-> ([[@1998_fenner_genieyolonda]])
+> ([[1998_fenner]])
 > Exercice proposé basé sur la lecture d'un extrait du livre "*Le génie de Yolanda*" : prendre le nom d'une personne que l'on aime, lui associer une action puis un son/un mouvement/un rythme.
 
 Aoï éclate de rire dans un crépitement de "ah" et "oh" pressés de sortir.
@@ -83,5 +83,5 @@ Effectivement, celui par qui la confiance se construit par mimétisme.
 ---
 > links :
 > references : [[Le génie de Yolanda]] 
-> note authors : [[Rieul Techer]]
+> note authors : [[Rieul Techer (fr)]]
 > note contributors : 

@@ -10,6 +10,8 @@ type : people
 
 {{title}}
 ===
+[Site web]()
+[Fiche wikipédia]() 
 
 # Bio
 

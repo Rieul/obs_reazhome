@@ -55,4 +55,4 @@ Pourquoi ? Être capable d'expliquer la transformation des régimes de productio
 
 ---
 > links : [[Accélération et Théorie critique]], [[Aliénation]], [[Savoirs situés]], [[Pragmatisme]], [[Modernité]]
-> references :  [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references :  [[2014_rosa.chaumont]]

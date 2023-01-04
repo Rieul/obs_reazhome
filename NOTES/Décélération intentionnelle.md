@@ -37,4 +37,4 @@ Il semblerait que ces mécanismes se mettent en place notamment car le processus
 
 ---
 > links : [[Théorie de l'accélération sociale]], [[Dysfonctionnements de l'accélération sociale]], [[Oasis de décélération]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

@@ -13,7 +13,7 @@ contributor:
 
 ---
 
-<< [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+<< [[2014_rosa.chaumont]]
 
 Accélération sociale et Théorie critique
 ===
@@ -28,4 +28,4 @@ Accélération sociale et Théorie critique
 
 ---
 > links : [[Théorie de l'accélération sociale]], [[Théorie critique de l'accélération sociale]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

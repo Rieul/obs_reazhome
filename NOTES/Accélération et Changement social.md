@@ -34,4 +34,4 @@ Exemple d'accélération de changement social dans la famille et le travail (voi
 
 ---
 > links : [[Accélération technique]], [[Institution]],  [[Théorie de l'accélération sociale]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

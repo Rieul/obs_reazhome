@@ -18,4 +18,4 @@ Intrastructure
 
 ---
 > links : 
-> references : [[@2017_citton_mediarchie]]
+> references : [[2017_citton]]

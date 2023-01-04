@@ -29,4 +29,4 @@ Si le temps est constitutif de notre rapport au monde, notre relation au temps, 
 
 ---
 > links : [[Accélération et Théorie critique]], [[Pouvoir totalitaire]], [[Espace-Temps]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

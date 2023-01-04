@@ -13,8 +13,8 @@ contributor;
 
 ---
 
-<< [[@2021_hui_questiontechniquechine]]
-<< [[@2021_monnin_heritagefermetureecologiedemantelement]]
+<< [[2021_hui]]
+<< [[2021_monnin.bonnet.ea]]
 Technique, technè et technologie
 ===
 
@@ -26,7 +26,7 @@ Différences de concepts par [Yuk Hui](http://www.digitalmilieu.net/yuk/) :
 
 La technique est un sujet de philosophie car elle est rendue visible par la naissance de la philosophie. En tant que catégorie de la philosophie elle est soumise à son histoire et se définit par des manières d'interroger particulières. Aussi, la technique en tant que catégorie ontologique doit être interrogée dans sa relation à une configuration plus large, une "cosmologie" propre à la culture dont elle émerge. 
 
-Selon [Annie Gouilleux]() (source : [[@2021_mumford_techniqueautoritairetechniquedemocratique]] de [Lewis Mumford](https://fr.wikipedia.org/wiki/Lewis_Mumford)) :
+Selon [Annie Gouilleux]() (source : [[2021_mumford.gouilleux.ea]] de [Lewis Mumford](https://fr.wikipedia.org/wiki/Lewis_Mumford)) :
 - *technique* : ensemble des procédés, savoirs-faire et moyens pratiques propres à une activité;
 - *technologie* : ensemble de procédés reposant sur les connaissances scientifiques, destinées à la production industrielle.
 - Note : la proposition "technologie democratique" est donc un oxymore.
@@ -40,4 +40,4 @@ Sur la base des travaux de [Jose Halloy](https://twitter.com/jhalloy), les tehcn
 
 ---
 > links : [[Philosophie]], [[Dispositif]]
-> references :  [[@2021_hui_questiontechniquechine]], [[@2021_mumford_techniqueautoritairetechniquedemocratique]], [[@2021_monnin_heritagefermetureecologiedemantelement]]
+> references :  [[2021_hui]], [[2021_mumford.gouilleux.ea]], [[2021_monnin.bonnet.ea]]

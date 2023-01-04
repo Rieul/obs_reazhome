@@ -34,7 +34,7 @@ et donc de notre [[Être au monde]].
 **Pourquoi c'est important** : si la promesse de la [[Modernité]] est bien celle de l'[[Autodétermination]] et de l'[[Autonomie]] individuelle et collective, alors il est impensable - du point de vue de la philosophie sociale - de laisser un processus incontrôlé, inarticulé, dépolitisé (et dépolitisant) et totalitaire ignoré.
 
 ## Distortion de l'espace-temps
-Le corollaire de penser la relation au temps dans notre [[Être au monde]] est de prendre en considération notre relation concomittante à l'espace. L'espace et la matérialité prennent moins d'importance puisque "tout est à proximité temporelle". Cela a aussi un impact sur les relations sociales : puisque l'espace est rétréci par le gain en temps, les relations ne se construisent pas de la même manière. La tendance - aussi accélérationniste - est à l'augmentation du nombre de relations. Cet état mène à ce que [Kenneth J. Gergen](https://fr.wikipedia.org/wiki/Kenneth_J._Gergen) appelle la [[Saturation sociale ou l'être saturé]] (voir [[@1991_gergen_saturatedselfdilemmasidentitycontemporarylife]]).
+Le corollaire de penser la relation au temps dans notre [[Être au monde]] est de prendre en considération notre relation concomittante à l'espace. L'espace et la matérialité prennent moins d'importance puisque "tout est à proximité temporelle". Cela a aussi un impact sur les relations sociales : puisque l'espace est rétréci par le gain en temps, les relations ne se construisent pas de la même manière. La tendance - aussi accélérationniste - est à l'augmentation du nombre de relations. Cet état mène à ce que [Kenneth J. Gergen](https://fr.wikipedia.org/wiki/Kenneth_J._Gergen) appelle la [[Saturation sociale ou l'être saturé]] (voir [[1991_gergen]]).
 
 ## La place de l'histoire
 Enfin, comme souligné dans [[Accélération, Inertie polaire et Histoire]], notre vécu biographique et collectif est fortement impacté par le processus d'accélération sociale caractéristique des modernités : le rythme de transformation étant notamment intragénérationnel, "faire sens de l'histoire" et y trouver ou dessiner des certitudes paraît de plus en plus compliqué si ce n'est impossible. 
@@ -45,4 +45,4 @@ Enfin, comme souligné dans [[Accélération, Inertie polaire et Histoire]], not
 
 ---
 > links : [[Identité]], [[Être au monde]], [[Post-histoire ou la fin de l'histoire]], [[Accélération, Inertie polaire et Histoire]], [[Saturation sociale ou l'être saturé]], [[Modernité]]
-> references :  [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]], [[@1991_gergen_saturatedselfdilemmasidentitycontemporarylife]]
+> references :  [[2014_rosa.chaumont]], [[1991_gergen]]

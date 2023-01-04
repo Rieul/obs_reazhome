@@ -1,0 +1,20 @@
+{
+  "token": "CeQTqNEZoUEStprhXt04N0DV3agluvl7dxS6HZ3Rqi5le77sNX",
+  "readwiseDir": "SOURCES/READWISE",
+  "frequency": "60",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 6706678,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "SOURCES/READWISE/Liked Tweets.md": "22133157",
+    "SOURCES/READWISE/After More Than Five Yea....md": "22235215",
+    "SOURCES/READWISE/Tweets From Black Minou.md": "22246881",
+    "SOURCES/READWISE/La Condition Terrestre.md": "22424153",
+    "SOURCES/READWISE/Explication Des Principa....md": "22509400"
+  },
+  "reimportShowConfirmation": true
+}

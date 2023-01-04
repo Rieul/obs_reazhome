@@ -51,4 +51,4 @@ Aussi **la société moderne est une société de l'accélération au sens où e
 
 ---
 > links : [[Accélération et Changement social]], [[Accélération technique]], [[Théorie de l'accélération sociale]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

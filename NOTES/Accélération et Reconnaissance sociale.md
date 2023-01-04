@@ -39,4 +39,4 @@ Alors que la lutte pour la reconnaissance sociale dans une société concurrenti
 
 ---
 > links : [[Accélération et Théorie critique]], [[Théorie critique de l'accélération sociale]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

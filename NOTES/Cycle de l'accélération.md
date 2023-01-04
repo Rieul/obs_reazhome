@@ -27,4 +27,4 @@ L'accélération sociale est, aujourd'hui, un système autopropulsé/autoentrete
 
 ---
 > links : [[Théorie de l'accélération sociale]], [[Accélération technique]], [[Accélération et Changement social]], [[Compression du présent]], [[Accélération et Rythme de vie]], [Capitalisme]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

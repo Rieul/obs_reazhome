@@ -19,4 +19,4 @@ Post-histoire ou la fin de l'histoire
 
 ---
 > links :  
-> references : [[@2008_fukuyama_finhistoiredernierhomme]], [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2008_fukuyama.canal]], [[2014_rosa.chaumont]]

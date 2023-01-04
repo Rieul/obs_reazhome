@@ -1,7 +1,7 @@
 {
   "citationExportFormat": "biblatex",
-  "literatureNoteTitleTemplate": "@{{citekey}}",
-  "literatureNoteFolder": "SOURCES",
+  "literatureNoteTitleTemplate": "{{citekey}}",
+  "literatureNoteFolder": "SOURCES/LITERATURE",
   "literatureNoteContentTemplate": "---\ntitle : [{{title}}]\nauthors : [{{authorString}}]\nyear : {{year}}\ntype : book\ndoi : {{DOI}}\nisbn : {{ISBN}}\nURI : {{zoteroSelectURI}}\nstatus : \n---\n\n%% tags :  %% \n\n---\n\n{{title}}\n===\n> Auhtor(s) : {{authorString}}\n\n## Abstract\n{{abstract}}\n\n\n\n---\n> links : \n> references : \n\n",
   "markdownCitationTemplate": "[@{{citekey}}]",
   "alternativeMarkdownCitationTemplate": "@{{citekey}}",

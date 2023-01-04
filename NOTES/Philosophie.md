@@ -15,8 +15,8 @@ contributor:
 Philosophie
 ===
 
-> Le mouvement dialectique entre rationalité et mythe est la dynamique propre de la philosophie, sans laquelle il n'y aurait que des sincères positivistes. ([[@2021_hui_questiontechniquechine]])
+> Le mouvement dialectique entre rationalité et mythe est la dynamique propre de la philosophie, sans laquelle il n'y aurait que des sincères positivistes. ([[2021_hui]])
 
 ---
 > links : 
-> references : [[@2021_hui_questiontechniquechine]]
+> references : [[2021_hui]]

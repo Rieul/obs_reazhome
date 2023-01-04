@@ -29,4 +29,4 @@ La concurrence/compétition comme mode de fonctionnement dépasse le cadre écon
 
 ---
 > links : [[Théorie de l'accélération sociale]], [[Accélération et Reconnaissance sociale]], [[Compression du présent]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

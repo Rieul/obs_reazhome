@@ -13,7 +13,7 @@ contributor:
 
 ---
 
-<< [[@2021_hui_questiontechniquechine]]
+<< [[2021_hui]]
 
 Cosmos, cosmologie et cosmotechnique
 ===

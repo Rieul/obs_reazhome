@@ -1,1 +1,11 @@
-{}
+{
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ]
+}

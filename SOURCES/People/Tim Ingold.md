@@ -4,14 +4,14 @@ function : research
 type : people
 ---
 
-%% tags : #type/people #discipline/anthropologie %%
+%% tags : #type/people #discipline/anthropologie #pratique/recherche #discipline/écologie #aoi/environnement %%
 
 ---
 
-Tim Ingold
+Tim INGOLD
 ===
-Site web : https://www.timingold.com/
-Fiche wikipédia : https://fr.wikipedia.org/wiki/Tim_Ingold
+[Site web](https://www.timingold.com/)
+[Fiche wikipédia](https://fr.wikipedia.org/wiki/Tim_Ingold)
 
 # Bio
 Tim Ingold est titulaire de la chaire d’anthropologie sociale à l’université d’Aberdeen. Après avoir étudié les peuples Saami en Laponie, il a écrit sur l’environnement, la technologie, les animaux en société, l’écologie et la théorie de l’évolution. Ses principaux ouvrages sont _Making: Anthropology, Archaeology, Art and Architecture_ (Abingdon, Routledge, 2013) traduit aux éditions Dehors en 2017 sous le titre _Faire. Anthropologie, archéologie, art et architecture, Tools, Language and Cognition in Human Evolution_ (Cambridge, Cambridge University Press, 1993), _Une brève histoire des lignes_ (trad. de l’anglais par Sophie Renaut, Bruxelles, Éd. Zones sensibles, 2011 [2007]), _Marcher avec les dragons_ (trad. de l’anglais par Pierre Madelin, Bruxelles, Éd. Zones sensibles, 2013 [1992-2013]), _Le Dédale et le labyrinthe. La marche et l’éducation de l’attention_ (Paris, Éd. de l’École supérieure d’art de l’agglomération d’Annecy, 2015) et _The life of Lines_ (Abingdon, Routledge, 2015). Sur tous ces sujets, il défend une conception propre de l’anthropologie comme méthode, épistémologie, politique, éthique – et donc, dans le présent ouvrage, mais aussi comme fondement d’une philosophie de l’éducation.
@@ -76,4 +76,4 @@ Issue de [la page Wikipédia](https://fr.wikipedia.org/wiki/Tim_Ingold)
 
 ---
 > links : 
-> references :  [[@2013_ingold_marcheravecdragons]]
+> references :  [[2013_ingold.madelin]]

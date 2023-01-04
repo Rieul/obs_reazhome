@@ -17,4 +17,4 @@ Cosmotechniques
 
 ---
 > links : 
-> references : [[@2021_hui_questiontechniquechine]],  [[@2017_hui_cosmotechnicsrenewedrelationtechnologynatureanthropocene]], [[@2020_crevoisier_yukhuiproduiretechnologiesalternatives]]
+> references : [[2021_hui]],  [[2017_hui]], [[2020_crevoisier.hui.ea]]

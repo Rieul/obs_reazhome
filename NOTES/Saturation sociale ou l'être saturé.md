@@ -21,4 +21,4 @@ Saturation sociale ou l'être saturé
 
 ---
 > links : [[Agentivité]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]], [[@1991_gergen_saturatedselfdilemmasidentitycontemporarylife]]
+> references : [[2014_rosa.chaumont]], [[1991_gergen]]

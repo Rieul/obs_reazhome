@@ -11,5 +11,8 @@
   "templater-obsidian",
   "obsidian-citation-plugin",
   "obsidian-pandoc",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-languagetool-plugin",
+  "obsidian-footnotes",
+  "readwise-official"
 ]

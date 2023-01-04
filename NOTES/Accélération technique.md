@@ -30,4 +30,4 @@ Impact de l'accélération technique : transformation du "régime spatio-tempore
 
 ---
 > links : [[Accélération et Rythme de vie]], [[Accélération et Changement social]],  [[Théorie de l'accélération sociale]], [[Espace-Temps]] 
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

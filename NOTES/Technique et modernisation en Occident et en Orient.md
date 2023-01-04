@@ -13,7 +13,7 @@ contributor:
 
 ---
 
-<< [[@2021_hui_questiontechniquechine]]
+<< [[2021_hui]]
 
 Technique et modernisation en Occident et en Orient
 ===

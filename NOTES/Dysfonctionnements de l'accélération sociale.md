@@ -24,4 +24,4 @@ Ex.: l'embouteillage, dépressions psychopathologiques (en tant que réaction d�
 
 ---
 > links :  [[Théorie de l'accélération sociale]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

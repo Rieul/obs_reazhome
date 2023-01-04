@@ -24,4 +24,4 @@ Pouvoir totalitaire
 
 ---
 > links : [[Accélération et Totalitarisme]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

@@ -19,5 +19,5 @@ license :
 
 
 ---
-> links : [[@avenier_2019]] [[@2019_avenier_sciencesartificielconceptualisationrevolutionnairesciencesfondamentalesparachever]]
+> links : [[@avenier_2019]] [[2019_avenier]]
 > references : 

@@ -13,7 +13,7 @@ contributor:
 
 ---
 
-<< [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+<< [[2014_rosa.chaumont]]
 
 Théorie critique de l'accélération sociale
 ===
@@ -43,4 +43,4 @@ Cette critique s'appuie sur 3 modalités de la critique sociale :
 
 ---
 > links : 
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

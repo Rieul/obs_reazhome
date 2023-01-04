@@ -39,4 +39,4 @@ L'expérience de l'*inertie* vient casser cette chaîne (accélérée et accél�
 
 ---
 > links : [[Post-histoire ou la fin de l'histoire]], [Individualisation et atomisation]], [[Société et culture de masse]], [[Modernité]]
-> references :  [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]], [[@2005_descola_pardelanatureculture]], [[@2008_fukuyama_finhistoiredernierhomme]]
+> references :  [[2014_rosa.chaumont]], [[2005_descola]], [[2008_fukuyama.canal]]

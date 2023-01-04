@@ -12,7 +12,7 @@ license: CC-BY-SA
 
 ---
 
-<< [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+<< [[2014_rosa.chaumont]]
 
 Théorie de l'accélération sociale
 ===
@@ -40,4 +40,4 @@ A partir du champs culturel, la modernité est vue comme **l'augmentation de la 
 
 ---
 > links : [[Modernité]], [[Espace-Temps]], [[Qu'est ce que le progrès]][[Accélération technique]], [[Accélération et Changement social]], [[Accélération et Rythme de vie]], [[Moteur social et compétition]], [[Moteur culturel et promesse de l'éternité]], [[Cycle de l'accélération]], [[Limites physiques et cognitives]], [[Oasis de décélération]], [[Dysfonctionnements de l'accélération sociale]], [[Décélération intentionnelle]], [[Inertie culturelle et structurelle]], [[Accélération, Inertie polaire et Histoire]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

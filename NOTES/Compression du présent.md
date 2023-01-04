@@ -25,4 +25,4 @@ Nécessité de définir ce qui est entendu par [[Passé]], [[Présent]] et [[Fut
 
 ---
 > links : [[Espace-Temps]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]], %%Référence Hermann Lubbe%%
+> references : [[2014_rosa.chaumont]], %%Référence Hermann Lubbe%%

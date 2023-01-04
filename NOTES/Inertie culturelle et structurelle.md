@@ -28,4 +28,4 @@ Contrairement aux phénomènes de flexibilisation et d'accélération générali
 
 ---
 > links : [[Théorie de l'accélération sociale]], [[Post-histoire ou la fin de l'histoire]], [[Accélération, Inertie polaire et Histoire]] 
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

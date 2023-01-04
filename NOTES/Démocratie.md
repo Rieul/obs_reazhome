@@ -19,4 +19,4 @@ Démocratie
 
 ---
 > links : [[Accélération et Communication]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

@@ -26,5 +26,5 @@ Moteurs de l'accélération sociale
 
 ---
 > links : 
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]
 

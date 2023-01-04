@@ -39,4 +39,4 @@ La communication est chronophage, la reconnaissance^[ [[Accélération et Reconn
 
 ---
 > links : [[Accélération et Théorie critique]], [[Démocratie]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

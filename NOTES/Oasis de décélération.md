@@ -20,4 +20,4 @@ Niches territoriales, sociales, culturelles n'ayant pas été touchées par la m
 
 ---
 > links : [[Théorie de l'accélération sociale]], [[Modernité]]
-> references : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> references : [[2014_rosa.chaumont]]

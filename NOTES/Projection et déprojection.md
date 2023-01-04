@@ -12,7 +12,7 @@ license : CC-BY-SA
 
 ---
 
-<<< [[@2021_monnin_heritagefermetureecologiedemantelement]]
+<<< [[2021_monnin.bonnet.ea]]
 
 Projection et déprojection
 ===

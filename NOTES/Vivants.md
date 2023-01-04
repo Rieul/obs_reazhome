@@ -16,5 +16,5 @@ Qu'est ce qu'être vivant ?
 
 ---
 > links :
-> references : [[@2021_lestel_machinesinsurrectionnellestheoriepostbiologiquevivant]]
+> references : [[2021_lestel.killoffer]]
 

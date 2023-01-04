@@ -19,4 +19,4 @@ Selon [Michel Foucault](https://fr.wikipedia.org/wiki/Michel_Foucault) : le savo
 
 ---
 > links : 
-> references : [[@2021_bert_voirsavoirslieuxobjetsgestesscience]]
+> references : [[2021_bert.lamy]]

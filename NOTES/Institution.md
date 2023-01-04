@@ -17,7 +17,7 @@ Institutions
 ## Les institutions de la modernité tardive
 
 ###  Selon [Hartmut Rosa](https://fr.wikipedia.org/wiki/Hartmut_Rosa)
-> source : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> source : [[2014_rosa.chaumont]]
 
 Les institutions qui organisent les processus de prodution et de reproduction, dans les sociétés occidentales depuis la période moderne : principalement **la famille** et **le travail**. 
 
@@ -27,4 +27,4 @@ A cela s'ajoutent les institutions politiques [ndlr. à définir] et la technolo
 
 ---
 > links : [[Modernité]], [[Technique, technè et technologie]]
-> reference : [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> reference : [[2014_rosa.chaumont]]

@@ -21,8 +21,8 @@ Doctrine du prométhéanisme : la critique sociale du capitalisme n'est pas coup
 
 Cette doctrine est assimilée à la notion d'accélérationsime. 
 
-> Si la réponse de l'accélérationnisme a l'essor de la technologie et du capitalisme était appliquée à l'échelle du globe, et que l'on faisait comme si la figure de Prométhée était universelle, elle risquerait de perpétuer une forme plus subtile de colonialisme. ([[@2021_hui_questiontechniquechine]])
+> Si la réponse de l'accélérationnisme a l'essor de la technologie et du capitalisme était appliquée à l'échelle du globe, et que l'on faisait comme si la figure de Prométhée était universelle, elle risquerait de perpétuer une forme plus subtile de colonialisme. ([[2021_hui]])
 
 ---
 > links : 
-> references : [[@2021_hui_questiontechniquechine]]
+> references : [[2021_hui]]

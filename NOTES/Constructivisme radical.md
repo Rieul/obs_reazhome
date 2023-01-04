@@ -31,4 +31,4 @@ La connaissance ne reflète pas une réalité ontologique "objective", mais la m
 
 ---
 > links : [[Constructivisme et constructionnisme]], [[Expérience]], [[Agentivité]], [[Cybernétique]]
-> references : [[@2021_lestel_machinesinsurrectionnellestheoriepostbiologiquevivant]], %%Références de Ernst von Glasersfeld, de Heinz von Foerster et de Darwin%%
+> references : [[2021_lestel.killoffer]], %%Références de Ernst von Glasersfeld, de Heinz von Foerster et de Darwin%%

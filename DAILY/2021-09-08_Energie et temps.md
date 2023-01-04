@@ -18,5 +18,5 @@ authors : Rieul Techer
 - Il y a un fil à tirer entre relation au temps, cosmotechniques et evolution des infrastructures. 
 
 ---
-> links :  [[@2014_rosa_alienationaccelerationverstheoriecritiquemodernitetardive]]
+> links :  [[2014_rosa.chaumont]]
 > references : 

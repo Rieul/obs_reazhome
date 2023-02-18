@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Rieul Techer (fr)",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"MATERIALS/Bio/Rieul Techer (fr).md\",\"mode\":\"preview\",\"source\":false}}",
+                  "eState": "{}"
+                },
+                {
                   "title": "ABOUT",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"ABOUT.md\",\"mode\":\"preview\",\"source\":false}}",
@@ -478,8 +484,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATERIALS/Bio/Rieul Techer (fr).md",
-                "mode": "preview",
+                "file": "SOURCES/READWISE/La Condition Terrestre.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -655,8 +661,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -741,7 +746,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
+                "file": "SOURCES/READWISE/La Condition Terrestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -767,7 +772,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
+                "file": "SOURCES/READWISE/La Condition Terrestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -808,7 +813,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md"
+                "file": "SOURCES/READWISE/La Condition Terrestre.md"
               }
             }
           },
@@ -886,17 +891,17 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "83fb678c7d560c04",
+  "active": "e1564bfa6d1f09c9",
   "lastOpenFiles": [
+    "SOURCES/LITERATURE/Sans titre.md",
+    "SOURCES/READWISE/La Condition Terrestre.md",
+    "MATERIALS/Bio/Rieul Techer (fr).md",
     "RESEARCH/PROJECTS/Cosmotechniques des infrastructures énergétiques.md",
     "SOURCES/LITERATURE/2014_rosa.chaumont.md",
     "NOTES/Théorie critique.md",
     "MATERIALS/Bio/Rieul Techer (en).md",
-    "MATERIALS/Bio/Rieul Techer (fr).md",
     "ABOUT.md",
     "RESEARCH/Techno-diversité et énergie - Ce que font les milieux à l'énergie.md",
-    "SOURCES/READWISE/Liked Tweets.md",
-    "SOURCES/LITERATURE/2013_ingold.madelin.md",
-    "NOTES/Marcher avec les Dragons.md"
+    "SOURCES/READWISE/Liked Tweets.md"
   ]
 }

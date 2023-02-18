@@ -120,3 +120,48 @@ Liked Tweets
   ![](https://pbs.twimg.com/media/FjoIIOoWAAAAtYN.jpg) ([View Tweet](https://twitter.com/doctorow/status/1601601560609529863))
 ## New highlights added December 24, 2022 at 5:13 PM
 - @arstechnica: The 20 most-read stories on Ars Technica in 2022 https://t.co/oOTq5XL7YC ([View Tweet](https://twitter.com/arstechnica/status/1606621769997107203))
+## New highlights added January 23, 2023 at 9:42 AM
+- @dogeofficialceo: @elonmusk @WallStreetSilv 
+  ![](https://pbs.twimg.com/media/Fm81JFWWYAE3GsE.jpg) ([View Tweet](https://twitter.com/dogeofficialceo/status/1616569225199460352))
+## New highlights added January 26, 2023 at 11:18 PM
+- @RenanViguie: Avec le froid qui s'installe, je vous propose un fil sur l’histoire des températures intérieures au XXe siècle, alors que les appareils modernes de chauffage (radiateur, chauffage central) se diffusent dans les logements 1/25 #histoire #énergie #chauffage #19° #confort ([View Tweet](https://twitter.com/RenanViguie/status/1618265336821977091))
+## New highlights added January 27, 2023 at 11:56 AM
+- @LarrereMathilde: Qq éléments sur l’histoire de la retraite au prisme du genre
+  fil à dérouler 
+  ![](https://pbs.twimg.com/media/FnY90hEWAAAjyWG.png) ([View Tweet](https://twitter.com/LarrereMathilde/status/1618549111996944384))
+## New highlights added January 27, 2023 at 4:02 PM
+- @GeWoessner: "Rigueur", "souveraineté", "sobriété" : le nouveau président de l'Ademe @boris_ravignon dévoile ses priorités. "Notre rôle est d'éclairer les choix politiques, sans parti pris idéologique." https://t.co/Nyk2cBDLLl via @LePoint ([View Tweet](https://twitter.com/GeWoessner/status/1618900659373477888))
+## New highlights added January 28, 2023 at 10:11 AM
+- @Erika_Berenguer: We are on the front cover of Science! Our new paper shows how much of the Amazon has already been affected by human disturbances (climate change, fire, logging and edge effects) and its social, economical and ecological impacts 👇 https://t.co/U055Axc2kv ([View Tweet](https://twitter.com/Erika_Berenguer/status/1618687047816089600))
+## New highlights added January 31, 2023 at 10:32 AM
+- @DoctorVive: This is a very interesting paper, which upends two pieces of conventional wisdom about coal.
+  The paper finds that...
+  1) Stranded assets from currently operating coal mines would total only $120 - 150 B until 2050, the cost of 2022's extreme weather in the US alone.
+  And...
+  1/2 
+  ![](https://pbs.twimg.com/media/FnvbaKkWYB09Zc6.jpg) ([View Tweet](https://twitter.com/DoctorVive/status/1620130033737277440))
+- @valenvogl: This Friday I'm defending my PhD thesis 'Steel Beyond Coal'. 
+  With nearly 6 years of research on steel decarbonisation coming to an end, here comes a very long 🧵about steel, coal and what we can do radically reduce carbon emissions in line with a just transformation. 
+  ![](https://pbs.twimg.com/media/FnuaMsiWYAAEwEL.jpg) ([View Tweet](https://twitter.com/valenvogl/status/1620085082718617603))
+## New highlights added February 1, 2023 at 3:06 PM
+- @AukeHoekstra: Marginal emissions are a hype in academia.
+  It means new demand is matched to the dirtiest electricity source.
+  But what demand is "new"?
+  Often it simply means innovation runs on coal.
+  Let me explain with simplified examples why I think it's an error that's to be avoided.
+  🧵 https://t.co/1MVydD4zE1 ([View Tweet](https://twitter.com/AukeHoekstra/status/1620525739803291648))
+## New highlights added February 2, 2023 at 6:03 AM
+- @EnergieDevlpmt: Un peu hors-saison, j'étais auditionné tout-à-l'heure par la mission d'information "Paris à 50°C" sur l'adaptation des réseaux critiques face aux super vagues de chaleur.
+  L'occasion d'un🧵qui réchauffe : ([View Tweet](https://twitter.com/EnergieDevlpmt/status/1620807369709191168))
+- @p_brun: C'est historique.
+  La commission des finances vient de voter pour la proposition de loi de protection d'EDF contre le démantèlement ! ⤵️ 
+  ![](https://pbs.twimg.com/media/Fn4cIR9XwAIhUv9.jpg) 
+  ![](https://pbs.twimg.com/media/Fn4cK_9X0AA0a2k.jpg) ([View Tweet](https://twitter.com/p_brun/status/1620764159158910977))
+## New highlights added February 3, 2023 at 3:03 PM
+- @ClemencePene: #forumdesfuturs2023 Exercice de prospective participative pour futurs désirables = le rapport Genève 2050 https://t.co/lKDEOzsF7i ([View Tweet](https://twitter.com/ClemencePene/status/1621179764131373058))
+## New highlights added February 12, 2023 at 2:16 PM
+- @s_fredriksson: Reprises de savoirs
+  https://t.co/SSY4TdV5y6 
+  ![](https://pbs.twimg.com/media/FoHbsYTWQAI5Nps.jpg) 
+  ![](https://pbs.twimg.com/media/FoHbsYPWYAAvTur.jpg) 
+  ![](https://pbs.twimg.com/media/FoHbsYQWQAgPtEW.jpg) ([View Tweet](https://twitter.com/s_fredriksson/status/1621818901091721217))

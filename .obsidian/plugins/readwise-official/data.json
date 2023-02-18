@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 6706678,
+  "lastSavedStatusID": 7319113,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [],
@@ -14,7 +14,11 @@
     "SOURCES/READWISE/After More Than Five Yea....md": "22235215",
     "SOURCES/READWISE/Tweets From Black Minou.md": "22246881",
     "SOURCES/READWISE/La Condition Terrestre.md": "22424153",
-    "SOURCES/READWISE/Explication Des Principa....md": "22509400"
+    "SOURCES/READWISE/Explication Des Principa....md": "22509400",
+    "SOURCES/READWISE/Cette Illustration, Sign....md": "22936383",
+    "SOURCES/READWISE/This Friday I'm Defendin....md": "23873645",
+    "SOURCES/READWISE/La permaculture ou l'art de réhabiter.md": "23874808",
+    "SOURCES/READWISE/Résonance.md": "24143335"
   },
   "reimportShowConfirmation": true
 }

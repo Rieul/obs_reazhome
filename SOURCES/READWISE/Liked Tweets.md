@@ -165,3 +165,28 @@ Liked Tweets
   ![](https://pbs.twimg.com/media/FoHbsYTWQAI5Nps.jpg) 
   ![](https://pbs.twimg.com/media/FoHbsYPWYAAvTur.jpg) 
   ![](https://pbs.twimg.com/media/FoHbsYQWQAgPtEW.jpg) ([View Tweet](https://twitter.com/s_fredriksson/status/1621818901091721217))
+## New highlights added February 24, 2023 at 10:50 AM
+- @SergeZaka: Après l'historique sécheresse 2022, l'hiver n'a pour le moment pas redressé la barre. La 🇫🇷 entame sa 4ème semaine sans pluie (sans compter au moins 10 jours supplémentaires).
+  La réaction est immédiate : nos sols agricoles superficiels s'assèchent déjà.
+  #secheresse2023
+  [1/2] 
+  ![](https://pbs.twimg.com/media/Fowk4BOWIAMksra.jpg) ([View Tweet](https://twitter.com/SergeZaka/status/1624716099613863938))
+- @Kako_line: J’ai vu passer cette info tardivement. Peu de relai médiatique en France...
+  On fait le point sur les impacts environnementaux et sanitaires potentiels de cet accident impliquant la fuite et la combustion du chlorure de vinyle dans l'Ohio 🇺🇸
+  #Thread 🧵 https://t.co/ZJeV1abb2p ([View Tweet](https://twitter.com/Kako_line/status/1625923925174517767))
+- @picharbonnier: Dans la lutte climatique, il faut une large coalition d'intérêts autour de la transition.
+  Or chaque groupe idéologique est sensible à différentes facettes de cette transition.
+  Voici comment on peut formaliser cette répartition, et se représenter les alliances possibles. 
+  ![](https://pbs.twimg.com/media/Fo_6znLWYAEow8Y.jpg) ([View Tweet](https://twitter.com/picharbonnier/status/1625793759341420544))
+- @MattEinberger: #energytwitter could somebody explain to me in plain English the role of interconnection service, transmission service (physical transmission rights), financial transmission rights, and LMPs in US RTOs to determine dispatch and curtailment? Asking for my sanity. ([View Tweet](https://twitter.com/MattEinberger/status/1626414560776187904))
+- @picharbonnier: Un fil intéressant. 
+  Mais ce qui surprend est que le gouvernement semble vouloir ouvrir des filières vertes sans "en même temps" fermer, ou cesser de subventionner, les filières grises.
+  Une addition ne fait pas une transition. https://t.co/KZ2D37hA4J ([View Tweet](https://twitter.com/picharbonnier/status/1626708809283432448))
+- @AlexanderHammo: An absolutely jaw-dropping chart from @thetimes this weekend
+  https://t.co/8mq5Hoo8ki 
+  ![](https://pbs.twimg.com/media/FpZsqhFXgAAhHb0.png) ([View Tweet](https://twitter.com/AlexanderHammo/status/1627607829480710144))
+- @picharbonnier: Je me demande si l'incompréhension entre générations (en gros les gens qui étaient adultes ds les '80-90 et ceux qui le sont ajd) ne vient pas de cela : l'explosion silencieuse des prix de l'immobilier et la pression sur les revenus + privilège des héritiers en patrimoine. https://t.co/9KUkTCiGob ([View Tweet](https://twitter.com/picharbonnier/status/1627671875315802115))
+- @picharbonnier: Impressionnant cet axe NE-SO qui traverse la France. https://t.co/VB87EnCTip ([View Tweet](https://twitter.com/picharbonnier/status/1628022766908710912))
+- @clemnaturel: 🧵Le 3 février, un train transportant des produits chimiques déraillait à East Palestine, Ohio.
+  Le pire, c’est la gestion de l’accident par les autorités et la compagnie ferroviaire, qui a généré une libération massive de produits toxiques, dont un gaz classé comme arme chimique 
+  ![](https://pbs.twimg.com/media/FpqCTREXsAILYH9.jpg) ([View Tweet](https://twitter.com/clemnaturel/status/1628757491264675841))

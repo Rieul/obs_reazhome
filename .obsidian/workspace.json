@@ -491,6 +491,25 @@
             }
           },
           {
+            "id": "d7adf36260d7642c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "b79a0c5bb296b737",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -661,7 +680,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -877,11 +897,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Créer une nouvelle toile": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
-      "canvas:Create new canvas": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
@@ -891,7 +911,7 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "e1564bfa6d1f09c9",
+  "active": "d7adf36260d7642c",
   "lastOpenFiles": [
     "SOURCES/LITERATURE/Sans titre.md",
     "SOURCES/READWISE/La Condition Terrestre.md",

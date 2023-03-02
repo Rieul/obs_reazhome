@@ -510,6 +510,25 @@
             }
           },
           {
+            "id": "18758fd3cdaee002",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          },
+          {
             "id": "b79a0c5bb296b737",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -681,7 +700,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -911,7 +930,7 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "d7adf36260d7642c",
+  "active": "18758fd3cdaee002",
   "lastOpenFiles": [
     "SOURCES/LITERATURE/Sans titre.md",
     "SOURCES/READWISE/La Condition Terrestre.md",

@@ -190,3 +190,22 @@ Liked Tweets
 - @clemnaturel: 🧵Le 3 février, un train transportant des produits chimiques déraillait à East Palestine, Ohio.
   Le pire, c’est la gestion de l’accident par les autorités et la compagnie ferroviaire, qui a généré une libération massive de produits toxiques, dont un gaz classé comme arme chimique 
   ![](https://pbs.twimg.com/media/FpqCTREXsAILYH9.jpg) ([View Tweet](https://twitter.com/clemnaturel/status/1628757491264675841))
+## New highlights added March 2, 2023 at 5:24 PM
+- @Jonwqt: Un fil récap-sommaire de mes fils sur le rapport RTE : 
+  ![](https://pbs.twimg.com/media/Fp6VO8MWwAEYKQ3.jpg) ([View Tweet](https://twitter.com/Jonwqt/status/1629904206059454471))
+- @SciRebFr: 1/16. Avec 600 scientifiques, dont plusieurs co-auteur·es des rapports du GIEC, nous avons demandé dans @lobs à @BNPParibas d’arrêter de soutenir de nouveaux projets pétroliers et gaziers pour avoir une chance de limiter le réchauffement sous +2°C.
+  https://t.co/XJRMotyjkk
+  ⤵️⤵️ ([View Tweet](https://twitter.com/SciRebFr/status/1630149153882775553))
+- @rouxad27: Aurore Stephant, que l'on voit beaucoup citée sur ce réseau et ailleurs, n'est pas une source fiable. 
+  Nous l'allons montrer tout à l'heure. 👇 ([View Tweet](https://twitter.com/rouxad27/status/1631004412649897986))
+- @VisaSkn: As a google-born 90s kid I haven’t spend much of my time in mines but I’m quite accustomed to data mining. 
+  I hope that you haven’t spent much of your time worrying about @JohnLeePettim13 thread.
+  Earth will not be destroyed because of energy transition related mining.🧵1/26 
+  ![](https://pbs.twimg.com/media/FnADniUXwAQzvgX.jpg) ([View Tweet](https://twitter.com/VisaSkn/status/1616813002547773444))
+- @OfficialLoganK: Today is a huge day for developers. 🤯
+  - ChatGPT API released (10x cheaper)
+  - Whisper available in the API
+  - Overhauled data usage policy
+  - Focus on stability
+  And more! 
+  Here’s a quick thread on everything we shipped today @OpenAI 🧵 ([View Tweet](https://twitter.com/OfficialLoganK/status/1630992343695327232))

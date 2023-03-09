@@ -209,3 +209,6 @@ Liked Tweets
   - Focus on stability
   And more! 
   Here’s a quick thread on everything we shipped today @OpenAI 🧵 ([View Tweet](https://twitter.com/OfficialLoganK/status/1630992343695327232))
+## New highlights added March 9, 2023 at 10:41 AM
+- @ericvidalenc: Entre la décarbonation de l'offre qui ne viendra pas à temps, et la sobriété tjs discutée, @picharbonnier nous propose pragmatiquement... l'efficacité énergétique des pompes à chaleur pour le lien qu'elles tissent avec sobriété et décarbonation justement.
+  https://t.co/GVndFeHRU5 ([View Tweet](https://twitter.com/ericvidalenc/status/1633230481008345095))

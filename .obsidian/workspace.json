@@ -491,44 +491,6 @@
             }
           },
           {
-            "id": "d7adf36260d7642c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "18758fd3cdaee002",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
-          },
-          {
             "id": "b79a0c5bb296b737",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -700,7 +662,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -785,7 +747,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOURCES/READWISE/La Condition Terrestre.md",
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -811,7 +773,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOURCES/READWISE/La Condition Terrestre.md",
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -852,7 +814,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOURCES/READWISE/La Condition Terrestre.md"
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md"
               }
             }
           },
@@ -930,10 +892,11 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "18758fd3cdaee002",
+  "active": "b79a0c5bb296b737",
   "lastOpenFiles": [
-    "SOURCES/LITERATURE/Sans titre.md",
     "SOURCES/READWISE/La Condition Terrestre.md",
+    "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
+    "SOURCES/LITERATURE/Sans titre.md",
     "MATERIALS/Bio/Rieul Techer (fr).md",
     "RESEARCH/PROJECTS/Cosmotechniques des infrastructures énergétiques.md",
     "SOURCES/LITERATURE/2014_rosa.chaumont.md",

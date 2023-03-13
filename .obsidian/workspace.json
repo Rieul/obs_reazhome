@@ -747,7 +747,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -773,7 +772,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -813,9 +811,7 @@
             },
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md"
-              }
+              "state": {}
             }
           },
           {
@@ -892,11 +888,11 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "b79a0c5bb296b737",
+  "active": "8a0e8cac5752246d",
   "lastOpenFiles": [
+    "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
     "journals/2023_03_13.md",
     "SOURCES/READWISE/La Condition Terrestre.md",
-    "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
     "SOURCES/LITERATURE/Sans titre.md",
     "MATERIALS/Bio/Rieul Techer (fr).md",
     "RESEARCH/PROJECTS/Cosmotechniques des infrastructures énergétiques.md",

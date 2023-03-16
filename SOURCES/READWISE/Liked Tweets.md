@@ -212,3 +212,6 @@ Liked Tweets
 ## New highlights added March 9, 2023 at 10:41 AM
 - @ericvidalenc: Entre la décarbonation de l'offre qui ne viendra pas à temps, et la sobriété tjs discutée, @picharbonnier nous propose pragmatiquement... l'efficacité énergétique des pompes à chaleur pour le lien qu'elles tissent avec sobriété et décarbonation justement.
   https://t.co/GVndFeHRU5 ([View Tweet](https://twitter.com/ericvidalenc/status/1633230481008345095))
+## New highlights added March 16, 2023 at 8:06 PM
+- @timparrique: Plan de transition : démanteler une économie de croissance pour permettre d'organiser une décroissance vers une économie de la post-croissance. @KBRH87 
+  ![](https://pbs.twimg.com/media/FrPnKL7XoAAb7Pw.jpg) ([View Tweet](https://twitter.com/timparrique/status/1635906780642328576))

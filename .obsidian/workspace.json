@@ -660,9 +660,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a8e1c721059f6c4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -747,6 +768,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -772,6 +794,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -811,7 +834,9 @@
             },
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique 1.md"
+              }
             }
           },
           {
@@ -888,9 +913,10 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "8a0e8cac5752246d",
+  "active": "6a8e1c721059f6c4",
   "lastOpenFiles": [
     "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
+    "RESEARCH/PROJECTS/Histoire de la futurologie énergétique 1.md",
     "journals/2023_03_13.md",
     "SOURCES/READWISE/La Condition Terrestre.md",
     "SOURCES/LITERATURE/Sans titre.md",

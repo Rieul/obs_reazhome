@@ -7,7 +7,7 @@ authors : Rieul Techer
 license : CC-BY-SA
 ---
 
-%% tags : #pratique/recherche #projet #cat/énergie #type/thèse #aoi/anthropocene #cat/futurologie #cat/prospective%% 
+%% tags : #pratique/recherche #projet #cat/énergie #type/thèse #aoi/anthropocene #cat/futurologie #cat/prospective %% 
 
 ---
 
@@ -17,16 +17,12 @@ Histoire de la futurologie énergétique
 # Informations pratiques
 ## Étudiant 
 [[Rieul Techer (fr)]]
-
 ## Tuteur 
 [[Jean-Baptiste FRESSOZ]]
-
 # Sujet 
 Histoire de la futurologie énergétique (1980-2000) : contre choc pétrolier et montée de la question climatique.
-
 ## Objet 
 La construction des futurs énergétiques à l’heure du tournant néo-libéral : une histoire des méthodes, représentations et récits des 1980 à 2000.
-
 ## Contexte
 Si des histoires de l’énergie coexistent[^1], il apparaît que peu d’histoires de la futurologie énergétique existent[^2]. Malgré la production soutenue d’études prospectives de l’énergie – quelles soient tendancielles ou alternatives, principales constitutives de ce que revête la futurologie énergétique depuis notamment le premier choc pétrolier, il n’y a que très peu d’historiographies de la manière dont se construisent les futurs énergétiques. 
 
@@ -35,60 +31,52 @@ De plus, tout en cherchant à donner forme aux futurs énergétiques, la futurol
 Or la manière dont sont représentées les données énergétiques, dont sont élaborées les méthodes utilisées, ou dont sont construits les discours et récits de l’énergie participe d’une certaine forme de construction des futurs énergétiques. Par ailleurs, au delà des représentations, des méthodes, et des récits il est aussi intéressant de voir en quoi et comment l’histoire passée impacte notre capacité présente à travailler et représenter nos futurs énergétiques[^3]. Au delà, le travail de l’histoire de la futurologie énergétique vient alimenter notre compréhension de la manière dont se construisent les représentations énergétiques du monde dans une forme de continuité temporelle : le passé, le présent et le futur ne sont pas en rupture mais s’alimentent et se conditionnent, et la technique en est pleinement constitutive[^4].
 
 Aussi, il apparaît d’intérêt d’explorer l’histoire de la futurologie énergétique au prisme de l’évolution des représentations énergétiques, des méthodes mobilisées et des récits énergétiques depuis l'avènement d’une certaine forme contemporaine de futurologie (1860[^5]) à aujourd’hui. Plus spécifiquement, à partir des années 70, une série de cadres contextuels semblent avoir favorisé la construction de formes de futurologies énergétiques marquant un changement dans la finalité du travail de futurologie : il s’agit moins de prévoir que d’anticiper.
-
--   Un cadre **scientifique** : la météorologie, donnant le poul passé et présent du climat, fait émerger à la fin des années 70 une “science du climat” se préoccupant de son évolution à moyen et long terme.
--   Un cadre **technique** : l’informatique et l’idéal cybernétique – et la représentation d’un monde “complexe” qui en découle - visant à mettre en modèle le monde afin d’en prédire les comportements ouvrent le champ de la modélisation.
--   Un cadre **géopolitique** : les chocs pétroliers mettent en nécessité de penser et construire des futurs visant une sécurité - voire une souveraineté - énergétique accrue face à la perspective de ce qui s’appréhende comme une crise énergétique, alors que le tournant libéral des années 80 propose la poursuite et l’accélération d’un même mode opératoire.
--   Un cadre **politique et normatif** : la “transition énergétique” s’ancre dans les discours obligeant à penser les alternatives[^6] et faisant entrer l’énergie dans un cycle de planification scénarisée intégrant de plus en plus la question climatique.
--   Un cadre **social** : l’amplification de mouvements environnementaux et de recherche d’alternatives viennent obliger tant à retravailler les représentations historiques qu’à projeter des futurs énergétiques intégrant ces alternatives.
--   Un cadre **méthodologique** : la prévision laisse place à la prospective opérant un tournant dans l’approche des futurs moins à des fins de planification que de scénarisation et d’anticipation.
-
-Les années 2000 s’ouvrent quand à elles sur une période semblant marquer un nouveau cycle, où **(1)** les capacités de calcul et de modélisation permettent d’envisager des possibilités prédictives prenant en compte une part croissante de la complexité du monde; **(2)** l’explosion de l’adoption d’internet et des outils numériques[^7] facilite grandement l’accès à la connaissance et les capacités d’organisation - notamment citoyenne ; **(3)** le [Third Assessment Report]() du GIEC publié en 2001[^8] marque un tournant dans l’appropriation et l’existence du sujet du changement climatique dans le débat public et politique, notamment au travers de ses projections ; **(4)** la prospective énergétique commence à sortir du champ de l’expertise institutionnelle pour être appropriée par des acteurs de la société civile[^9]. Plus tard, la crise économique de 2008 enfoncera, semble-t-il, un peu plus le clou de l’émergence de futurologies “alternatives” aussi bien au sein qu’hors du champ institutionnel. 
-
-Aussi les années 80 sont marquées par une série d’événements notables - initiés dans le courant des années 70 - poussant à une reconsidération de l’exercice de la futurologie énergétique :
-
--   l’émergence et ancrage dans les discours de ce qui est appelé “crise énergétique” et - son corollaire - la “transition énergétique”[^10];
--   la première démarche du genre au sein de la compagnie pétrolière anglo-néerlandaise [[Shell]][^11], initiant un tournant dans les modes d’anticipation et de planifications scénarisées;
--   la première démarche du genre au sein de l’International Institute for [[Applied System Analysis (IIASA)]] de 1972 à 1980 d’exercice prospectif long[^12];
--   la première démarche du genre, transdisciplinaire et scientifique, de prospective globale avec le “[[Rapport Meadows]]”[^13] du [[Club de Rome]] initiant un tournant non seulement dans les méthodes mais aussi dans la prise de conscience de la nécessité de “futurs alternatifs”;
--   les chocs pétroliers de 1973 et 1979;
--   la création d’institutions marquant un tournant dans la considération du sujet énergétique et de ses projections : [[Agence International de l’Energie (AIE)]] (principal pourvoyeur de prospectives énergétiques mondiale et régionale) - 1974, l’[[Agence des Économies d'Énergie (AEE)]] - 1974, qui fusionne avec le [[Commissariat à l’Énergie Solaire]] en 1982 pour la création de l’[[Agence Française pour la Maîtrise de l’Énergie (AFME)]][^14], le [[Département de l’Énergie (DOE - Department Of Energy)]] - 1977 et le [[Laboratoire National des Énergies Renouvelables (NREL - National Renewable Energy Laboratory)]];
--   la première [[Conférence mondiale sur le climat (World Climat Conference)]] en 1979 à Genève sous le parrainage de l'[[Organisation Météorologique Mondiale (OMM)]] soulève “*des tendances alarmantes en matière de changement climatique rendaient urgent d'agir*”[^15] et fait entrer le climat dans la sphère publique[^16];
--   le tournant néolibéral des années 1980;
--   les accidents nucléaires de [[Three Miles Island (1979)]], [[Tchernobyl (1986)]];
--   la chute du mur de Berlin (1989) et de l’URSS (1991);
--   la création du [[Groupe d'Experts Intergouvernemental sur l’Évolution du Climat (GIEC)]] en 1988 publiant 3 rapports en l’espace de 10 ans;
--   la [[Conférence des Nations Unies sur l’Environnement et le Développement]] de Rio de Janeiro en 1992 (ou [[Sommet de la Terre de Rio]]) - soit 2 ans après la publication du premier rapport du GIEC - marque un tournant dans la reconnaissance de la question climatique au niveau mondial.
-
-Par ailleurs, à partir des années 70, avec un processus d’institutionnalisation entre les années 1980 et 2000, se met en place la pratique d’une certaine forme de futurologie (la prospective) de plus en plus intégrée à la stratégie des institutions - publiques, para-publiques ou privées : en France chez [[Électricité De France (EDF)]] à partir des années 70 avec une institutionnalisation fin des années 80 ainsi que chez [[ELF-Aquitaine]] depuis 1976 par la pratique “du plan”, et aux Etats-Unis avec les travaux de la [[RAND Corporation]] ou encore de la [[Navy]][^17].
-
-Si des exercices de projection quantitative ont commencé à se constituer dès 1860 sur la question du futur des ressources en charbon au Royaume-Uni[^18], puis dans les années 1910 sur la question de la consommation énergétique aux Etats-Unis, et encore dans les années 40 en France[^19], il semble que le contexte après-guerre (1950), et plus encore des années 70, ait favorisé le développement de la futurologie énergétique contemporaine dans les pays industrialisés. La période de contre choc pétrolier (post 1980) voit se formaliser diverses formes de futurologies énergétiques marquées par l’ancrage de “discours transitionnistes” dans le paysage politico-médiatique et de leurs tensions avec un “retour au business-as-usual”, notamment basé sur les énergies fossiles, l’adoption de l’informatique à des fins de modélisation, d’organisation et d’échange d’informations, et enfin la montée de la question climatique. 
-
-Aussi, à l’idéal de futurs alternatifs émergents des années 60-70, cette période de contre choc pétrolier y oppose un “there is no alternative”[^20] qui, couplé à la montée de la question climatique, en font une période d’intérêt pour l’étude des modes de production de futurs énergétiques au prisme des méthodes, représentations et récits. Ce projet de recherche vise à contribuer à une histoire de la futurologie énergétique plus générale. Nous nous focaliserons ici sur la période post chocs pétroliers 1980-2000, dans le cadre des pays industrialisés et sur l’évolution des méthodes, des représentations et des récits. D’autres périodes (1860-1914, 1914-1945, 1945-1960, 1960-1980…), d’autres situations géographiques et culturels (pays d’Amérique Latine, Chine, Inde, Moyen-Orient…) et d’autres objets sont d’intérêt dans le cadre l’étude de ce sujet et devront eux aussi faire l’objet d’exploration dans le cadre d’autres projets de recherche pour compléter cette histoire générale[^21].
-
+- Un cadre **scientifique** : la météorologie, donnant le poul passé et présent du climat, fait émerger à la fin des années 70 une “science du climat” se préoccupant de son évolution à moyen et long terme.
+- Un cadre **technique** : l’informatique et l’idéal cybernétique – et la représentation d’un monde “complexe” qui en découle - visant à mettre en modèle le monde afin d’en prédire les comportements ouvrent le champ de la modélisation.
+- Un cadre **géopolitique** : les chocs pétroliers mettent en nécessité de penser et construire des futurs visant une sécurité - voire une souveraineté - énergétique accrue face à la perspective de ce qui s’appréhende comme une crise énergétique, alors que le tournant libéral des années 80 propose la poursuite et l’accélération d’un même mode opératoire.
+- Un cadre **politique et normatif** : la “transition énergétique” s’ancre dans les discours obligeant à penser les alternatives[^6] et faisant entrer l’énergie dans un cycle de planification scénarisée intégrant de plus en plus la question climatique.
+- Un cadre **social** : l’amplification de mouvements environnementaux et de recherche d’alternatives viennent obliger tant à retravailler les représentations historiques qu’à projeter des futurs énergétiques intégrant ces alternatives.
+- Un cadre **méthodologique** : la prévision laisse place à la prospective opérant un tournant dans l’approche des futurs moins à des fins de planification que de scénarisation et d’anticipation.
+  
+  Les années 2000 s’ouvrent quand à elles sur une période semblant marquer un nouveau cycle, où **(1)** les capacités de calcul et de modélisation permettent d’envisager des possibilités prédictives prenant en compte une part croissante de la complexité du monde; **(2)** l’explosion de l’adoption d’internet et des outils numériques[^7] facilite grandement l’accès à la connaissance et les capacités d’organisation - notamment citoyenne ; **(3)** le [Third Assessment Report]() du GIEC publié en 2001[^8] marque un tournant dans l’appropriation et l’existence du sujet du changement climatique dans le débat public et politique, notamment au travers de ses projections ; **(4)** la prospective énergétique commence à sortir du champ de l’expertise institutionnelle pour être appropriée par des acteurs de la société civile[^9]. Plus tard, la crise économique de 2008 enfoncera, semble-t-il, un peu plus le clou de l’émergence de futurologies “alternatives” aussi bien au sein qu’hors du champ institutionnel. 
+  
+  Aussi les années 80 sont marquées par une série d’événements notables - initiés dans le courant des années 70 - poussant à une reconsidération de l’exercice de la futurologie énergétique :
+- l’émergence et ancrage dans les discours de ce qui est appelé “crise énergétique” et - son corollaire - la “transition énergétique”[^10];
+- la première démarche du genre au sein de la compagnie pétrolière anglo-néerlandaise [[Shell]][^11], initiant un tournant dans les modes d’anticipation et de planifications scénarisées;
+- la première démarche du genre au sein de l’International Institute for [[Applied System Analysis (IIASA)]] de 1972 à 1980 d’exercice prospectif long[^12];
+- la première démarche du genre, transdisciplinaire et scientifique, de prospective globale avec le “[[Rapport Meadows]]”[^13] du [[Club de Rome]] initiant un tournant non seulement dans les méthodes mais aussi dans la prise de conscience de la nécessité de “futurs alternatifs”;
+- les chocs pétroliers de 1973 et 1979;
+- la création d’institutions marquant un tournant dans la considération du sujet énergétique et de ses projections : [[Agence International de l’Energie (AIE)]] (principal pourvoyeur de prospectives énergétiques mondiale et régionale) - 1974, l’[[Agence des Économies d'Énergie (AEE)]] - 1974, qui fusionne avec le [[Commissariat à l’Énergie Solaire]] en 1982 pour la création de l’[[Agence Française pour la Maîtrise de l’Énergie (AFME)]][^14], le [[Département de l’Énergie (DOE - Department Of Energy)]] - 1977 et le [[Laboratoire National des Énergies Renouvelables (NREL - National Renewable Energy Laboratory)]];
+- la première [[Conférence mondiale sur le climat (World Climat Conference)]] en 1979 à Genève sous le parrainage de l'[[Organisation Météorologique Mondiale (OMM)]] soulève “*des tendances alarmantes en matière de changement climatique rendaient urgent d'agir*”[^15] et fait entrer le climat dans la sphère publique[^16];
+- le tournant néolibéral des années 1980;
+- les accidents nucléaires de [[Three Miles Island (1979)]], [[Tchernobyl (1986)]];
+- la chute du mur de Berlin (1989) et de l’URSS (1991);
+- la création du [[Groupe d'Experts Intergouvernemental sur l’Évolution du Climat (GIEC)]] en 1988 publiant 3 rapports en l’espace de 10 ans;
+- la [[Conférence des Nations Unies sur l’Environnement et le Développement]] de Rio de Janeiro en 1992 (ou [[Sommet de la Terre de Rio]]) - soit 2 ans après la publication du premier rapport du GIEC - marque un tournant dans la reconnaissance de la question climatique au niveau mondial.
+  
+  Par ailleurs, à partir des années 70, avec un processus d’institutionnalisation entre les années 1980 et 2000, se met en place la pratique d’une certaine forme de futurologie (la prospective) de plus en plus intégrée à la stratégie des institutions - publiques, para-publiques ou privées : en France chez [[Électricité De France (EDF)]] à partir des années 70 avec une institutionnalisation fin des années 80 ainsi que chez [[ELF-Aquitaine]] depuis 1976 par la pratique “du plan”, et aux Etats-Unis avec les travaux de la [[RAND Corporation]] ou encore de la [[Navy]][^17].
+  
+  Si des exercices de projection quantitative ont commencé à se constituer dès 1860 sur la question du futur des ressources en charbon au Royaume-Uni[^18], puis dans les années 1910 sur la question de la consommation énergétique aux Etats-Unis, et encore dans les années 40 en France[^19], il semble que le contexte après-guerre (1950), et plus encore des années 70, ait favorisé le développement de la futurologie énergétique contemporaine dans les pays industrialisés. La période de contre choc pétrolier (post 1980) voit se formaliser diverses formes de futurologies énergétiques marquées par l’ancrage de “discours transitionnistes” dans le paysage politico-médiatique et de leurs tensions avec un “retour au business-as-usual”, notamment basé sur les énergies fossiles, l’adoption de l’informatique à des fins de modélisation, d’organisation et d’échange d’informations, et enfin la montée de la question climatique. 
+  
+  Aussi, à l’idéal de futurs alternatifs émergents des années 60-70, cette période de contre choc pétrolier y oppose un “there is no alternative”[^20] qui, couplé à la montée de la question climatique, en font une période d’intérêt pour l’étude des modes de production de futurs énergétiques au prisme des méthodes, représentations et récits. Ce projet de recherche vise à contribuer à une histoire de la futurologie énergétique plus générale. Nous nous focaliserons ici sur la période post chocs pétroliers 1980-2000, dans le cadre des pays industrialisés et sur l’évolution des méthodes, des représentations et des récits. D’autres périodes (1860-1914, 1914-1945, 1945-1960, 1960-1980…), d’autres situations géographiques et culturels (pays d’Amérique Latine, Chine, Inde, Moyen-Orient…) et d’autres objets sont d’intérêt dans le cadre l’étude de ce sujet et devront eux aussi faire l’objet d’exploration dans le cadre d’autres projets de recherche pour compléter cette histoire générale[^21].
 ## Problématique 
 Contre choc pétrolier et montée de la question climatique : que disent l’évolution des méthodes, des représentations énergétiques et des récits à partir des années 80 de l’histoire de la futurologie énergétique ?
-
 ## Terrain 
-Archives, enquêtes et entretiens d’acteurs producteurs, experts, analystes ou participants de démarches de futurologies énergétiques. 
-
+Archives, enquêtes et entretiens d’acteurs producteurs, experts, analystes ou participants de démarches de futurologies énergétiques.
 ## Méthodologie
 - Clarifications et définitions - et leur évolution dans le temps - de ce qui est entendu par “futurologie énergétique”.
 	- Histoire des méthodes soutenant les exercices de futurologies post seconde guerre mondiale avec une focalisation sur la période 1980-2000.
-	- Recherche et analyse documentaire des techniques de construction des futurs énergétiques. 
+	- Recherche et analyse documentaire des techniques de construction des futurs énergétiques.
 	- Enquête auprès des acteurs producteurs de futurs énergétiques.
-
 - Histoire des représentations des données (historiques, statistiques et projetées) énergétiques post seconde guerre mondiale avec une focalisation sur la période 1980-2000.
 	- Recherche et analyse documentaire des formes de représentation énergétique.
 	- Recherche et analyse de données.
-	- Entretien avec des producteurs de formes et de représentations, notamment dans le cadre de travaux de futurologie énergétique. 
-
+	- Entretien avec des producteurs de formes et de représentations, notamment dans le cadre de travaux de futurologie énergétique.
 - Histoire de la futurologie énergétique post-chocs pétroliers (1980-2000).
 	- Analyse de ce que les méthodes et les représentations disent de l’histoire de la futurologie énergétique.
-	- Analyse des récits énergétiques adossés à ces méthodes et représentations dans une période de contre-choc pétrolier et de montée de la question climatique. 
-	- Mise en récit historique de ces évolutions.  
+	- Analyse des récits énergétiques adossés à ces méthodes et représentations dans une période de contre-choc pétrolier et de montée de la question climatique.
+	- Mise en récit historique de ces évolutions.
 	- Introduction à l’histoire de la futurologie énergétique post chocs pétroliers à l’heure de la montée de la question climatique.
-
 # Bibliographie
 ## Limitée
 
@@ -129,7 +117,6 @@ Soubra, B., Loubet, N., Pommier, M., Techer, R., Bocquet, B., “Situated energy
 Turner, F., “From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism”, Chicago, Ill, University of Chicago Press, 2008. ([[2008_turner]])
 
 Wilkinson, A., Kupers, R., “The essence of scenarios: learning from the Shell experience”, Amsterda,  Amsterdam University Press, 2014. ([[2014_wilkinson.kupers]])
-
 ## Étendue
 
 Auzanneau, Matthieu. 2016. « Or noir: la grande histoire du pétrole ». Paris: La Découverte.
@@ -354,5 +341,3 @@ Zapico, Daniel Pérez. 2014. « L’électricité à Gijón ». Écologie politi
 
 [[@fressozPourHistoireDesorientee2014]]
 [[@monninHeritageFermetureEcologie2021]]
-
-

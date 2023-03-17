@@ -683,7 +683,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -768,7 +768,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie.md",
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -794,7 +794,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie.md",
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -835,7 +835,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie.md"
+                "file": "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md"
               }
             }
           },
@@ -913,8 +913,9 @@
       "publish:Publier les modifications": false
     }
   },
-  "active": "6a8e1c721059f6c4",
+  "active": "b79a0c5bb296b737",
   "lastOpenFiles": [
+    "RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie.md",
     "logseq/bak/RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie/2023-03-17T15_22_36.073Z.Desktop.md",
     "logseq/bak/RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie/2023-03-17T14_57_51.439Z.Desktop.md",
     "logseq/bak/RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie/2023-03-17T14_57_44.301Z.Desktop.md",
@@ -925,7 +926,6 @@
     "logseq/bak",
     "logseq",
     "RESEARCH/PROJECTS/Histoire de la futurologie énergétique.md",
-    "RESEARCH/PROJECTS/Modéles, représentations et récits de l'énergie.md",
     "journals/2023_03_13.md",
     "SOURCES/READWISE/La Condition Terrestre.md",
     "SOURCES/LITERATURE/Sans titre.md",

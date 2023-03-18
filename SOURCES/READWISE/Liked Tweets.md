@@ -215,3 +215,7 @@ Liked Tweets
 ## New highlights added March 16, 2023 at 8:06 PM
 - @timparrique: Plan de transition : démanteler une économie de croissance pour permettre d'organiser une décroissance vers une économie de la post-croissance. @KBRH87 
   ![](https://pbs.twimg.com/media/FrPnKL7XoAAb7Pw.jpg) ([View Tweet](https://twitter.com/timparrique/status/1635906780642328576))
+## New highlights added March 18, 2023 at 9:14 PM
+- @Ludivine_Bantig: Les mots de Frédéric Lordon sont drôles et savoureux. Mais en fait, pas sûr que ce soit le "bingo de la loose". Pas sûr que le gouvernement fasse connerie sur connerie. Macron veut montrer sa volonté de nous écraser au bulldozer. La brutalité est stratégique, réfléchie, assumée. https://t.co/8eHVYVyP5e ([View Tweet](https://twitter.com/Ludivine_Bantig/status/1637015827026247680))
+- @Ludivine_Bantig: On entend beaucoup à propos de Macron et des ministres qu'ils sont idiots ou dingues. Certainement non. C'est un rapport de forces qu'ils entendent gagner par la force. C'est très calculé. Il y a chez eux une volonté déterminée de nous montrer qu'ils peuvent tout faire passer. ([View Tweet](https://twitter.com/Ludivine_Bantig/status/1637016767322021888))
+- @Ludivine_Bantig: On entend parler de Macron psychopathe. Je ne veux pas donner de leçon... mais juste remarquer que cette personnalisation (psychophobe) masque la rationalité idéologique et économique de leur violence. Macron de ce point de vue n'est qu'un pion, qui trace et accomplit sa mission. ([View Tweet](https://twitter.com/Ludivine_Bantig/status/1637020044105244672))

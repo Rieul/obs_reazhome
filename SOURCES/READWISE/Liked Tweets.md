@@ -219,3 +219,8 @@ Liked Tweets
 - @Ludivine_Bantig: Les mots de Frédéric Lordon sont drôles et savoureux. Mais en fait, pas sûr que ce soit le "bingo de la loose". Pas sûr que le gouvernement fasse connerie sur connerie. Macron veut montrer sa volonté de nous écraser au bulldozer. La brutalité est stratégique, réfléchie, assumée. https://t.co/8eHVYVyP5e ([View Tweet](https://twitter.com/Ludivine_Bantig/status/1637015827026247680))
 - @Ludivine_Bantig: On entend beaucoup à propos de Macron et des ministres qu'ils sont idiots ou dingues. Certainement non. C'est un rapport de forces qu'ils entendent gagner par la force. C'est très calculé. Il y a chez eux une volonté déterminée de nous montrer qu'ils peuvent tout faire passer. ([View Tweet](https://twitter.com/Ludivine_Bantig/status/1637016767322021888))
 - @Ludivine_Bantig: On entend parler de Macron psychopathe. Je ne veux pas donner de leçon... mais juste remarquer que cette personnalisation (psychophobe) masque la rationalité idéologique et économique de leur violence. Macron de ce point de vue n'est qu'un pion, qui trace et accomplit sa mission. ([View Tweet](https://twitter.com/Ludivine_Bantig/status/1637020044105244672))
+## New highlights added March 23, 2023 at 9:28 AM
+- @EnergieDevlpmt: Le rapport de la @Courdescomptes sur l'adaptation du parc #nucléaire au changement climatique confirme qu'@EDFofficiel ne prend pas en compte les scénarios les plus pessimistes pour l'élévation du niveau de la mer.
+  https://t.co/emSe4pp29x
+  Quelques précisions là-dessus... 
+  ![](https://pbs.twimg.com/media/Frz0GftXsAErqmQ.png) ([View Tweet](https://twitter.com/EnergieDevlpmt/status/1638452769186099200))

@@ -224,3 +224,12 @@ Liked Tweets
   https://t.co/emSe4pp29x
   Quelques précisions là-dessus... 
   ![](https://pbs.twimg.com/media/Frz0GftXsAErqmQ.png) ([View Tweet](https://twitter.com/EnergieDevlpmt/status/1638452769186099200))
+## New highlights added March 27, 2023 at 4:18 AM
+- @CCelpo: Un beau séminaire @Manucoop_fr dans le cadre du FACT @Anact_ sur les parcours et l’amélioration des conditions de travail avec les CAE @Elycoop_cae @AstrolabeCae #coodyssee @oxalisSCOP et #cabestan. Du beau travail, du politique et du concret pour nos coopératives ! 
+  ![](https://pbs.twimg.com/media/Fr_uYI0WIAM_d-z.jpg) 
+  ![](https://pbs.twimg.com/media/Fr_uYIzXgAAAjQJ.jpg) ([View Tweet](https://twitter.com/CCelpo/status/1639290893143363584))
+- @valmasdel: Bonjour!
+  Je commence à récupérer des 133 heures de session d'approbation du rapport de synthèse #SYR du GIEC #climatechange2023, la semaine dernière, et j'ai préparé ce long fil, qui en présente les points clés, en 🇫🇷
+  C'est parti, 🧵⬇️
+  (1/...) 
+  ![](https://pbs.twimg.com/media/Fr_8sNRX0AAgXxA.jpg) ([View Tweet](https://twitter.com/valmasdel/status/1639312344328155139))

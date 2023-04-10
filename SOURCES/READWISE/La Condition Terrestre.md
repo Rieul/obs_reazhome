@@ -13,6 +13,7 @@ La Condition Terrestre
 ---
 [[2022_gosselin.bartoli]]
 ## Highlights
+
 - la condition terrestre. Celle-ci désigne la relation de coappartenance des humains et des autres qu’humains 1 à la Terre et leur capacité à faire advenir des mondes habitables. ([View Highlight](https://read.readwise.io/read/01gn47yb3y3dz1yh7g92v7c3zs))
 - C’est en effet contre l’expérience de la vulnérabilité que se sont
   construits les imaginaires et les institutions politiques de l’époque moderne ([View Highlight](https://read.readwise.io/read/01gn484xgrdbg6xe62eq6k4mr4))
@@ -20,19 +21,19 @@ La Condition Terrestre
   a tenté de répondre à ce fantasme de toute-puissance en resituant l’action humaine dans une condition mortelle indépassable, en la réinscrivant dans une temporalité se déclinant sous la forme de la vita activa qui articule les trois activités humaines fondamentales : le travail, l’œuvre, l’action ([View Highlight](https://read.readwise.io/read/01gn489qbn44db491wcqj3wcve))
 - Arendt avait vu la nécessité d’un ancrage terrestre de l’existence humaine et dénonçait dans l’idée d’une humanité projetée dans l’espace extraterrestre une nouvelle version de ce fantasme. Cependant, en allant chercher dans la polis grecque et dans la Cité romaine les seuls modèles d’une pensée ([View Highlight](https://read.readwise.io/read/01gn48dw0vj09ypj38s74jkje8))
 - politique capable de répondre à ce « Tout est possible », elle reconduisait le partage nature/culture constitutif de la modernité en séparant l’espace politique de celui où se déterminent et se jouent les conditions de l’habiter et les relations terrestres qu’il actualise. Arendt réservait ainsi au seul être humain la capacité d’initier, de commencer, d’inventer, assimilant la nature au règne du déterminisme, de la nécessité et de la répétition. Elle projetait ainsi dans le monde contemporain un ordre cosmologique définitivement révolu : celui d’un univers stable sur le fond duquel se dérouleraient les actions humaines. ([View Highlight](https://read.readwise.io/read/01gn48e1jg00c304s4a6pr650e))
-    - Note: Tout comme les considerations ecologiques ne sont pas nees avec la crise climatique (voir histoire des pollutions), quelle est lhistoire de la consideration des non humains et autres minorites dans les consciences ecologiques ? Note : meme sil est vrai que ces questions prennent une place inedite dans les consciences actuelles.
+	- Note: Tout comme les considerations ecologiques ne sont pas nees avec la crise climatique (voir histoire des pollutions), quelle est lhistoire de la consideration des non humains et autres minorites dans les consciences ecologiques ? Note : meme sil est vrai que ces questions prennent une place inedite dans les consciences actuelles.
 - faire communs en tenant compte des différentes manières d’habiter en mondes ([View Highlight](https://read.readwise.io/read/01gn4984k40vpetqj80nda2pt2))
-    - Note: Communs de communautes biotiques
+	- Note: Communs de communautes biotiques
 - Le présupposé moderne de l’agir politique est qu’il est initié par et pour
   les êtres humains, qui affirment par là leur liberté, c’est-à-dire leur indépendance à l’égard de toute autorité transcendante, que celle-ci soit appelée Dieu ou Nature ([View Highlight](https://read.readwise.io/read/01gn49paf6m7wjx2a07nrfjtv9))
-    - Note: Est ce bien le cas ? 1/ Il y a moins relation d'independance que d'exploitation; 2/ bien au contraire, dieu a tout a voir avec ca.
+	- Note: Est ce bien le cas ? 1/ Il y a moins relation d'independance que d'exploitation; 2/ bien au contraire, dieu a tout a voir avec ca.
 - elles définissent les cadres d’une gouvernementalité planétaire s’appuyant sur une nouvelle forme de droit naturel pour imposer aux peuples de la Terre des normes génériques et universelles auxquelles ils devraient se conformer afin de maintenir les conditions globales d’une habitabilité planétaire. ([View Highlight](https://read.readwise.io/read/01gn4csrpgcas0vt9c331pj2y9))
-    - Note: d'une certaine forme d'habitabilite anthropomorphe
+	- Note: d'une certaine forme d'habitabilite anthropomorphe
 - Ces politiques dessinent les contours d’un géopouvoir qui envisage la Terre comme un système à gouverner. ([View Highlight](https://read.readwise.io/read/01gn4cx2dd80b1jsd1ssg1jwpj))
-    - Note: Geopouviir VS Biopolitique
-      Systeme VS Communaute
+	- Note: Geopouviir VS Biopolitique
+	  Systeme VS Communaute
 - Elles prolongent ainsi l’ambition moderne de maîtrise de la nature en la réduisant à sa version sécuritaire et économique, abandonnant définitivement l’exigence émancipatrice dont elle était porteuse au profit d’un appel à l’adaptation continue ([View Highlight](https://read.readwise.io/read/01gn4d2fy5cb54c4x1f59xwqpz))
-    - Note: L'adaptation continue, caracteristique des proessus d'evolution et de developpement, est-elle necessairement en opposition de l'emancipation - en ce qu'elle est constituve de l'habitabilite des mondes (hypothese)
+	- Note: L'adaptation continue, caracteristique des proessus d'evolution et de developpement, est-elle necessairement en opposition de l'emancipation - en ce qu'elle est constituve de l'habitabilite des mondes (hypothese)
 ## New highlights added January 24, 2023 at 2:19 PM
 - . « Nous »
   renvoyant non pas seulement aux êtres humains mais à l’ensemble des
@@ -246,7 +247,7 @@ La Condition Terrestre
 - Nous sommes pris dans des agencements socio-cosmiques en lesquels des
   forces et des puissances hétérogènes s’enchevêtrent et doivent apprendre à
   cohabiter ([View Highlight](https://read.readwise.io/read/01gqhmz1j2wexjn3w92nmpj7zd))
-    - Note: Aux agencements socio-techniques la condition terrestre renvoie à des agencements socio-cosmologique. Le déterminant "socio" n'enferme t'il pas encore une fois dans une lecture explicative par le fait social ? Ne serait-il pas intéressant d'initier un pas de côté comme le propose Yuk Hui en parlant de cosmo-technique, prenant acte que la technique est constitutive des relations des êtres (notamment humain) aux mondes afin d'agir sur, avec et par eux; et que technique et cosmologie sont les deux face d'une même pièce ?
+	- Note: Aux agencements socio-techniques la condition terrestre renvoie à des agencements socio-cosmologique. Le déterminant "socio" n'enferme t'il pas encore une fois dans une lecture explicative par le fait social ? Ne serait-il pas intéressant d'initier un pas de côté comme le propose Yuk Hui en parlant de cosmo-technique, prenant acte que la technique est constitutive des relations des êtres (notamment humain) aux mondes afin d'agir sur, avec et par eux; et que technique et cosmologie sont les deux face d'une même pièce ?
 - Et lorsque l’anthropologue brésilien Viveiros de Castro en
   appelle aux peuples des marges 41
   pour décoloniser l’espace politique, c’est
@@ -420,7 +421,7 @@ La Condition Terrestre
 - par la création
   d’instances intermédiaires à même de répondre aux enjeux situés soulevés
   par la crise écologique et que nous appelons les « Conseils terrestres ». ([View Highlight](https://read.readwise.io/read/01gqhq4y7by1dqs0znqegrctgc))
-    - Note: Notion de Conseils terrestres comme instances intermédiaires visant à faire émerger et construire d'autres formes de souveraineté.
+	- Note: Notion de Conseils terrestres comme instances intermédiaires visant à faire émerger et construire d'autres formes de souveraineté.
 - Si le collectif terrestre cherche à répondre à
   une situation donnée, le peuple terrestre est porteur d’un monde, il s’articule
   depuis une inscription dont il se fait le vecteur et le gardien. ([View Highlight](https://read.readwise.io/read/01gqhq9gqb0rkm1cgvh26p361w))
@@ -461,7 +462,7 @@ La Condition Terrestre
   technologies de surveillance et de contrôle réduisant les populations à la
   passivité de données statistiques et de consommateurs enfermés dans leur
   bulle numérique. ([View Highlight](https://read.readwise.io/read/01gqhqhxk247fw0cvm4jsxc382))
-    - Note: Il y a une dent quand même dans ce livre vis à vis des technologies (notamment numérique) et des techniques (modernes).
+	- Note: Il y a une dent quand même dans ce livre vis à vis des technologies (notamment numérique) et des techniques (modernes).
 - il paraît nécessaire de remobiliser et revisiter depuis un point
   de vue écologique la pensée critique qui a émergé en Europe au cours de
   l’époque moderne, en particulier sous l’impulsion des mouvements
@@ -516,7 +517,7 @@ La Condition Terrestre
 - Le présent ouvrage entend contribuer à l’invention et à l’imagination de
   ces formes institutionnelles en s’appuyant sur des processus déjà à l’œuvre
   de par le monde. ([View Highlight](https://read.readwise.io/read/01gqhqzrvk41hz3k5tyfk5pbgm))
-    - Note: Contribution de l'ouvrage en tant que recherche.
+	- Note: Contribution de l'ouvrage en tant que recherche.
 - La personne terrestre : une relation
   perspectiviste ([View Highlight](https://read.readwise.io/read/01gqhr1hdcegsczf5hp2m6s490))
 - « Nous sommes la nature qui se défend » ([View Highlight](https://read.readwise.io/read/01gqhr1k498n8q3dtdfp6es1x3))
@@ -601,7 +602,7 @@ La Condition Terrestre
   partagent un animus ou plutôt une anima commune qui les lie à la Terre, ([View Highlight](https://read.readwise.io/read/01gqj4jc3q8nq2bpgy0yf8v7qs))
 - marquant ainsi le passage du paradigme patriarcal de la « Société » à une
   condition terrestre écoféminisée. ([View Highlight](https://read.readwise.io/read/01gqj4h4tqqnng1rmbfqss11s3))
-    - Note: Le saut de ce que veut dire penser la personne terrestre le le passage du paradigme patriarcal de la Société à une condition terrestre écoféminisée mériterait prolongation. En effet, tant l'irruption du patriarcat que de l'écoféminisme n'a fait l'objet d'une introduction et intégration pleine à la construction de la personne terrestre pour le moment.
+	- Note: Le saut de ce que veut dire penser la personne terrestre le le passage du paradigme patriarcal de la Société à une condition terrestre écoféminisée mériterait prolongation. En effet, tant l'irruption du patriarcat que de l'écoféminisme n'a fait l'objet d'une introduction et intégration pleine à la construction de la personne terrestre pour le moment.
 - la relation terrestre elle-même
   envisagée comme condition de possibilité d’une cohabitation
   interspécifique ([View Highlight](https://read.readwise.io/read/01gqj6t6qr7mk5pr4nk8vzh3da))

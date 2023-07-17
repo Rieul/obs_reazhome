@@ -1,7 +1,7 @@
 ---
 date : 2022-08-28
 status : WIP
-type : project
+type : master project
 title : Histoire de la futurologie énergétique
 authors : Rieul Techer
 license : CC-BY-SA

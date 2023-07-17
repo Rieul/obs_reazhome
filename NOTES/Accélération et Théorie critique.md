@@ -29,3 +29,5 @@ Accélération sociale et Théorie critique
 ---
 > links : [[Théorie de l'accélération sociale]], [[Théorie critique de l'accélération sociale]]
 > references : [[2014_rosa.chaumont]]
+
+[[2020_chatterjee]]

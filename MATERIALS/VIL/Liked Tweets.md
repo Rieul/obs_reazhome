@@ -233,3 +233,12 @@ Liked Tweets
   C'est parti, 🧵⬇️
   (1/...) 
   ![](https://pbs.twimg.com/media/Fr_8sNRX0AAgXxA.jpg) ([View Tweet](https://twitter.com/valmasdel/status/1639312344328155139))
+## New highlights added April 10, 2023 at 2:22 PM
+- @florencehabets: On me reproche de ne parler que de cas généraux, et pas du cas spécifique. 
+  🤔hum... ici, le cas général intègre la somme des cas singuliers. 
+  Néanmoins, je vais faire un petit focus local...
+  même si ceux qui connaissent mieux le domaine sont mes collègues du @BRGM_fr ([View Tweet](https://twitter.com/florencehabets/status/1640750069447286784))
+- @PRoufos: Long thread on liberalism and police violence. 
+  We know that during the interwar period a decisive amount of liberals fully supported authoritarian “solutions” to social antagonism, a process that often culminated in the open support of fascism and Nazism. 1/ 
+  ![](https://pbs.twimg.com/media/FsY0p8ZWIAEMul7.jpg) 
+  ![](https://pbs.twimg.com/media/FsY0rKMXgAAUjKI.jpg) ([View Tweet](https://twitter.com/PRoufos/status/1641057132098252801))

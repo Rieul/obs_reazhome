@@ -1,7 +1,7 @@
 ---
 date : 2021-09-28
 status : WIP
-type : project
+type : reseach project
 title : [WIP] Cosmotechniques des infrastructures énergétiques
 authors : Rieul Techer
 license : CC-BY-NC-SA
